@@ -1,7 +1,7 @@
 var planet = {
   name: 'Jupiter',
-  // age: "4.543 billion years",
-  // moons: 1,
+  age: "4.543 billion years",
+  moons: 8,
   // isPopulated: true,
   // population: "7.594 billion",
   // neighboringPlanets: ["Mars", "Venus"],
