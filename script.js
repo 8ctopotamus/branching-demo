@@ -13,3 +13,4 @@ var planet = {
 
 planet.logFacts()
 console.log(planet.isPopulated)
+console.log(log.population)
